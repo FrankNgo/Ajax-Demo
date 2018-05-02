@@ -1,0 +1,11 @@
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.deps.json
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.runtimeconfig.json
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.runtimeconfig.dev.json
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.dll
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\bin\Debug\netcoreapp1.1\AjaxDemo.pdb
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.AssemblyInfo.cs
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.dll
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.pdb
+C:\Users\Frank\source\repos\AjaxDemo\AjaxDemo\obj\Debug\netcoreapp1.1\AjaxDemo.csprojResolveAssemblyReference.cache
